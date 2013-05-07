@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@android:color/darker_gray"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<!-- Title -->
+    <RelativeLayout
+        style="@style/label"
+        android:orientation="horizontal">
+        <TextView
+            style="@style/applicationame"
+            android:text="@string/html_name" />
+    </RelativeLayout>
+    <LinearLayout
+        style="@style/button">
+        <WebView
+            android:id="@+id/webview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </LinearLayout>
+  <animation xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/step1"
+              android:duration="150" />
+    <item android:drawable="@drawable/step2"
+          android:duration="150" />
+    </animation>
+</LinearLayout>
+
+
+

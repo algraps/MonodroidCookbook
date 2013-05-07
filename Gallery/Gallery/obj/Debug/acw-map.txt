@@ -1,0 +1,3 @@
+MyGallery.Activity1;mygallery.Activity1
+MyGallery.GalleryImageAdapter;mygallery.GalleryImageAdapter
+MyGallery.GalleryImageAdapter.ViewHolder;mygallery.GalleryImageAdapter_ViewHolder

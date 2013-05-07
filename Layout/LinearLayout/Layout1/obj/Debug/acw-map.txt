@@ -1,0 +1,3 @@
+Layout1.Activity1;layout1.Activity1
+Layout1.ContactsActivity;layout1.ContactsActivity
+Layout1.OnlineActivity;layout1.OnlineActivity

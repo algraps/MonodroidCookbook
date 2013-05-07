@@ -1,0 +1,14 @@
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\bin\Debug\WebViewTutorial.dll
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\bin\Debug\WebViewTutorial.pdb
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\bin\Debug\WebViewTutorial.dll.mdb
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\bin\Debug\WebViewTutorial.WebViewTutorial.apk
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\bin\Debug\WebViewTutorial.WebViewTutorial-Signed.apk
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\WebViewTutorial.dll
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\WebViewTutorial.pdb
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\android\bin\WebViewTutorial.WebViewTutorial.apk
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\res\layout\main.xml
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\res\values\strings.xml
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\res\drawable\icon.png
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\res\values\style.xml
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\R.cs.flag
+C:\codeExample\New folder\WebViewTutorial\WebViewTutorial\obj\Debug\uploadflags.txt

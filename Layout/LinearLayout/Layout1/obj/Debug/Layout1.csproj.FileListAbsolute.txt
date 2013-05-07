@@ -1,0 +1,13 @@
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\bin\Debug\Layout1.dll
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\bin\Debug\Layout1.pdb
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\bin\Debug\Layout1.dll.mdb
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\bin\Debug\Layout1.Layout1.apk
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\bin\Debug\Layout1.Layout1-Signed.apk
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\Layout1.dll
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\Layout1.pdb
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\android\bin\Layout1.Layout1.apk
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\res\layout\main.axml
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\res\values\strings.xml
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\res\drawable\icon.png
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\R.cs.flag
+E:\Progetti\Esempio_Codice\Android\layout\Layout1\Layout1\obj\Debug\uploadflags.txt
