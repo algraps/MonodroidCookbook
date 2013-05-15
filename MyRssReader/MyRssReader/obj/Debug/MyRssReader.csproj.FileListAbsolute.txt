@@ -1,0 +1,13 @@
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\bin\Debug\MyRssReader.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\bin\Debug\MyRssReader.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\bin\Debug\MyRssReader.dll.mdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\bin\Debug\MyRssReader.MyRssReader.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\bin\Debug\MyRssReader.MyRssReader-Signed.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\MyRssReader.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\MyRssReader.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\android\bin\MyRssReader.MyRssReader.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\res\layout\main.axml
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\res\values\strings.xml
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\res\drawable\icon.png
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\R.cs.flag
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReader\MyRssReader\obj\Debug\uploadflags.txt

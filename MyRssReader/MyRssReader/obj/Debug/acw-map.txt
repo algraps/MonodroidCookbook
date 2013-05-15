@@ -1,0 +1,1 @@
+MyRssReader.Activity1;myrssreader.Activity1
