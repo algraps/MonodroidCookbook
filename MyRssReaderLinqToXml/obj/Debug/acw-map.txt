@@ -1,1 +1,0 @@
-MyRssReaderLinqToXml.Activity1;myrssreaderlinqtoxml.Activity1
