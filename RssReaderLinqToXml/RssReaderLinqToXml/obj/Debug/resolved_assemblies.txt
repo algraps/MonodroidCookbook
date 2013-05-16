@@ -1,0 +1,1 @@
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.dll

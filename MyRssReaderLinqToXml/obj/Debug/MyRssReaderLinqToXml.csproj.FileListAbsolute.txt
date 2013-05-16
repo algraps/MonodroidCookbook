@@ -1,0 +1,13 @@
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\bin\Debug\MyRssReaderLinqToXml.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\bin\Debug\MyRssReaderLinqToXml.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\bin\Debug\MyRssReaderLinqToXml.dll.mdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\bin\Debug\MyRssReaderLinqToXml.MyRssReaderLinqToXml.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\bin\Debug\MyRssReaderLinqToXml.MyRssReaderLinqToXml-Signed.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\MyRssReaderLinqToXml.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\MyRssReaderLinqToXml.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\android\bin\MyRssReaderLinqToXml.MyRssReaderLinqToXml.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\res\layout\main.axml
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\res\values\strings.xml
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\res\drawable\icon.png
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\R.cs.flag
+E:\Progetti\GitHubRepo\MonodroidCookbook\MyRssReaderLinqToXml\obj\Debug\uploadflags.txt

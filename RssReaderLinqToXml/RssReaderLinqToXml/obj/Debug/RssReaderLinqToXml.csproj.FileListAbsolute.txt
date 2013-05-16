@@ -1,0 +1,13 @@
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.dll.mdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.RssReaderLinqToXml.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\bin\Debug\RssReaderLinqToXml.RssReaderLinqToXml-Signed.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\RssReaderLinqToXml.dll
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\RssReaderLinqToXml.pdb
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\android\bin\RssReaderLinqToXml.RssReaderLinqToXml.apk
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\res\layout\main.axml
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\res\values\strings.xml
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\res\drawable\icon.png
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\R.cs.flag
+E:\Progetti\GitHubRepo\MonodroidCookbook\RssReaderLinqToXml\RssReaderLinqToXml\obj\Debug\uploadflags.txt
