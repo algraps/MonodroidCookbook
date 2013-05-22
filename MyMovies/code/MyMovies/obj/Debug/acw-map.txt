@@ -1,0 +1,9 @@
+MyMovies.Activity1;mymovies.Activity1
+MyMovies.Core.MyMoviesDatabaseHelper;mymovies.core.MyMoviesDatabaseHelper
+MyMovies.DatabaseApplication;mymovies.DatabaseApplication
+MyMovies.GenreListAdapter;mymovies.GenreListAdapter
+MyMovies.MyMovieFind;mymovies.MyMovieFind
+MyMovies.MyMoviesListAdapter;mymovies.MyMoviesListAdapter
+MyMovies.MyMovieViewEdit;mymovies.MyMovieViewEdit
+MyMovies.MyMoviewViewAdd;mymovies.MyMoviewViewAdd
+MyMovies.GenreView;mymovies.GenreView

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Monodroid - MyGallery
+ * Author: Alessandro Graps
+ * Year: 2013
+ */
+using System;
 using System.Collections.Generic;
 using Android.App;
 using Android.Content;

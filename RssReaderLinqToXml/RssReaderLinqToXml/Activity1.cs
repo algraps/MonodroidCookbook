@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Monodroid - LinqToXML
+ * Author: Alessandro Graps
+ * Year: 2013
+ */
+ using System;
+using System.IO;
+using System.Net;
 using System.Xml.Linq;
 using Android.App;
 using Android.Content;
@@ -32,12 +39,18 @@ namespace RssReaderLinqToXml
         void button_Click(object sender, EventArgs e)
         {
             output.Text += "user input: " + rssUriInput.Text + "\n";
-
+            
             try
             {
                 output.Text += "### document ###";
-                output.Text += XDocument.Load(rssUriInput.Text).ToString();
+                //Use LINQ TO XML TO LOAD BLOG URI
+                XDocument ourBlog = XDocument.Load(rssUriInput.Text);
+                output.Text += ourBlog.ToString();
                 output.Text += "### document ###";
+
+
+
+
             }
             catch (Exception ex)
             {

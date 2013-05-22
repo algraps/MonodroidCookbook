@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Monodroid First Application
+ * Author: Alessandro Graps
+ * Year: 2013
+ */
+using System;
 
 using Android.App;
 using Android.Content;

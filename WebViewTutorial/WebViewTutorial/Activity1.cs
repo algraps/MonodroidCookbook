@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Monodroid - WebViewTutorial
+ * Author: Alessandro Graps
+ * Year: 2013
+ */
+ using System;
 
 using Android.App;
 using Android.Content;

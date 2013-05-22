@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Monodroid - MyRssReader
+ * Author: Alessandro Graps
+ * Year: 2013
+ */
+ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;

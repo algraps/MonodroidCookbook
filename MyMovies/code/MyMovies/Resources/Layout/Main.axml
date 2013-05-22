@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="fill_parent"
+        android:layout_height="35px"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:id="@+id/llButtons"
+        android:background="@android:drawable/bottom_bar">
+        <ImageButton
+            android:src="@drawable/add"
+            android:layout_width="75px"
+            android:paddingLeft="10dp"
+            android:paddingBottom="10dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:id="@+id/imgAdd" />
+        <ImageButton
+            android:src="@drawable/find"
+            android:layout_width="75px"
+            android:paddingLeft="10dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:id="@+id/imgFind" />
+        <ImageButton
+            android:src="@drawable/genre"
+            android:layout_width="75px"
+            android:paddingLeft="10dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:id="@+id/imgAddGenre" />
+    </LinearLayout>
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:id="@+id/lvMovie"
+        android:listSelector="@drawable/list_selector" />
+</LinearLayout>

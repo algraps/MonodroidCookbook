@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TableLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:background="@drawable/bgh">
+                <TextView
+                    android:text="Title"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_width="115px"
+                    android:layout_height="20px"
+                    android:id="@+id/tvViewTitle" />
+            </TableRow>
+            <TableRow
+                android:background="@android:drawable/bottom_bar"
+                android:id="@+id/tableRow2"
+                android:layout_height="40dp">
+                <EditText
+                    android:layout_width="115px"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txViewTitle"
+                    android:layout_gravity="center_vertical" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:layout_width="wrap_content"
+                android:background="@drawable/bgh">
+                <TextView
+                    android:text="Id"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_width="115px"
+                    android:layout_height="20px"
+                    android:id="@+id/tvViewId" />
+                <TextView
+                    android:text="Year"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_width="115px"
+                    android:layout_height="20px"
+                    android:id="@+id/tvViewYear" />
+            </TableRow>
+            <TableRow
+                android:background="@android:drawable/bottom_bar"
+                android:id="@+id/tableRow4"
+                android:layout_height="40dp">
+                <TextView
+                    android:text="1"
+                    android:layout_width="115px"
+                    android:textSize="50sp"
+                    android:id="@+id/tvViewId1" />
+                <EditText
+                    android:inputType="number"
+                    android:layout_width="75px"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txViewYear"
+                    android:layout_gravity="center_vertical" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow5"
+                android:layout_width="wrap_content"
+                android:background="@drawable/bgh">
+                <TextView
+                    android:text="Genre"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_width="115px"
+                    android:layout_height="20px"
+                    android:id="@+id/tvViewGenre" />
+            </TableRow>
+            <TableRow
+                android:background="@android:drawable/bottom_bar"
+                android:id="@+id/tableRow6"
+                android:layout_height="40dp">
+                <Spinner
+                    android:id="@+id/cbGenre"
+                    android:layout_width="188px"
+                    android:layout_height="39px"
+                    android:layout_x="130px"
+                    android:layout_y="69px" />
+            </TableRow>
+        </TableLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="fill_parent"
+            android:layout_height="35px"
+            android:paddingLeft="10dp"
+            android:id="@+id/llButtons"
+            android:background="@android:drawable/bottom_bar">
+            <ImageButton
+                android:src="@drawable/save"
+                android:layout_width="75px"
+                android:paddingLeft="10dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imgEdit" />
+            <ImageButton
+                android:src="@drawable/delete"
+                android:layout_width="75px"
+                android:paddingLeft="10dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imgDelete" />
+            <ImageButton
+                android:src="@drawable/back"
+                android:layout_width="75px"
+                android:paddingLeft="10dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imgBack" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
