@@ -1,0 +1,2 @@
+Contacts.Activity1;contacts.Activity1
+Contacts.PickContactActivity;contacts.PickContactActivity

@@ -120,6 +120,13 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:id="@+id/imgBack" />
+			 <ImageButton
+                android:src="@drawable/download"
+                android:layout_width="75px"
+                android:paddingLeft="10dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imgDownload" />
         </LinearLayout>
     </LinearLayout>
 </ScrollView>

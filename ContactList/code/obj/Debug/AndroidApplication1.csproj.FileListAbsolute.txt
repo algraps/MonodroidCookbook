@@ -1,0 +1,15 @@
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\bin\Debug\AndroidApplication1.dll
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\bin\Debug\AndroidApplication1.pdb
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\bin\Debug\AndroidApplication1.dll.mdb
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1.apk
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1-Signed.apk
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\AndroidApplication1.dll
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\AndroidApplication1.pdb
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\android\bin\AndroidApplication1.AndroidApplication1.apk
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\res\layout\item.axml
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\res\layout\pick_contact.axml
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\res\layout\main.axml
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\res\values\strings.xml
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\res\drawable\icon.png
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\R.cs.flag
+E:\Progetti\Esempio_Codice\ContactList\AndroidApplication1\obj\Debug\uploadflags.txt
