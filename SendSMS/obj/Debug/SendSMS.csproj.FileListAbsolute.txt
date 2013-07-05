@@ -1,0 +1,13 @@
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\bin\Debug\SendSMS.dll
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\bin\Debug\SendSMS.dll.mdb
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\bin\Debug\SendSMS.SendSMS.apk
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\bin\Debug\SendSMS.SendSMS-Signed.apk
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\SendSMS.dll
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\android\bin\SendSMS.SendSMS.apk
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\res\layout\main.axml
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\res\values\strings.xml
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\res\drawable\icon.png
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\R.cs.flag
+E:\Progetti\Esempio_Codice\SendSMS\SendSMS\obj\Debug\uploadflags.txt

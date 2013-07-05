@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SendSMS">Send SMS!</string>
+    <string name="ApplicationName">SendSMS</string>
+</resources>
