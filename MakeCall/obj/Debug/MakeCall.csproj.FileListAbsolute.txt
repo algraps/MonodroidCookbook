@@ -1,0 +1,13 @@
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\bin\Debug\MakeCall.dll
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\bin\Debug\MakeCall.pdb
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\bin\Debug\MakeCall.dll.mdb
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\bin\Debug\MakeCall.MakeCall.apk
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\bin\Debug\MakeCall.MakeCall-Signed.apk
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\MakeCall.dll
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\MakeCall.pdb
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\android\bin\MakeCall.MakeCall.apk
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\res\layout\main.axml
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\res\values\strings.xml
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\res\drawable\icon.png
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\R.cs.flag
+E:\Progetti\Esempio_Codice\MakeCall\MakeCall\obj\Debug\uploadflags.txt
