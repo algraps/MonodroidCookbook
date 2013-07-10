@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CameraApp">My Camera App</string>
+    <string name="ApplicationName">CameraApp</string>
+</resources>
